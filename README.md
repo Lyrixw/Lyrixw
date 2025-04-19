@@ -1,5 +1,5 @@
 <h1>Merhaba Ben Bora </h1>
-<p><img src="https://cdn.discordapp.com/banners/1174371148897718292/b6c77b17bffa4ced22b6a9f13aef2ac4.png?size=2048" alt="Banner" width="300" height="600"></p>
+<p><img src="https://cdn.discordapp.com/banners/1174371148897718292/b6c77b17bffa4ced22b6a9f13aef2ac4.png?size=2048" alt="Banner" width="600" height="300"></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
